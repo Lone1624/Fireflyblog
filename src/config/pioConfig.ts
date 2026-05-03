@@ -76,7 +76,7 @@ export const spineModelConfig: SpineModelConfig = {
 	},
 
 	// 层级
-	zIndex: 1000, // 层级
+	zIndex: 1000,
 
 	// 透明度
 	opacity: 1.0,

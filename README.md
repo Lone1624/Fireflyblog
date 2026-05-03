@@ -35,6 +35,17 @@
 [**📝使用文档**](https://docs-firefly.cuteleaf.cn/) /
 [**🍀我的博客**](https://blog.cuteleaf.cn) 
 
+## Cloudflare Workers 部署
+
+Firefly 默认是 Astro 静态站点，不需要改成 SSR 也可以部署到 Cloudflare Workers。
+
+1. 安装 Wrangler：`pnpm add -D wrangler`
+2. 构建站点：`pnpm build`
+3. 本地预览 Worker 静态资源：`pnpm wrangler dev`
+4. 部署到 Cloudflare Workers：`pnpm wrangler deploy`
+
+仓库已包含 `wrangler.jsonc`，会直接把 `dist/` 作为 Workers 静态资源上传，并使用 `404-page` 模式处理未命中路由。
+
 ⚡ 静态站点生成: 基于Astro的超快加载速度和SEO优化
 
 🎨 现代化设计: 简洁美观的界面，支持自定义主题色

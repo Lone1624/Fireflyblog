@@ -1,5 +1,5 @@
 ---
-title: 常见防火墙的几种常见模式
+title: 防火墙的几种常见模式
 published: 2026-05-04
 description: 梳理网络防火墙的几种常见的阻断思路。
 category: 学习

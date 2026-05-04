@@ -45,7 +45,7 @@
 
 ---
 
-## 致谢一下项目
+## 致谢以下项目
 
 * **[Astro](https://astro.build/)**
 * **[Fuwari](https://github.com/saicaca/fuwari)**

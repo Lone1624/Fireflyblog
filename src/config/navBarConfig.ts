@@ -52,7 +52,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		children: [
 			{
 				name: "敬请期待...",
-				url: "https://blog.mtvfree.xyz/",
+				url: "https://blog.neoact.xyz/",
 				external: true,
 				icon: "fa7-brands:angellist",
 			},

@@ -13,7 +13,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "即刻启程",
 
 	// 站点 URL
-	site_url: "https://blog.mtvfree.xyz",
+	site_url: "https://blog.neoact.xyz",
 
 	// 站点描述
 	description:

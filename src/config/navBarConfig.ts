@@ -51,11 +51,18 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		// 子菜单
 		children: [
 			{
+				name: "成绩工具",
+				url: "https://mteyer.neoact.xyz/",
+				external: true,
+				icon: "fa7-brands:cloudflare",
+			},
+			{
 				name: "敬请期待...",
 				url: "https://blog.neoact.xyz/",
 				external: true,
 				icon: "fa7-brands:angellist",
 			},
+
 		],
 	});
 

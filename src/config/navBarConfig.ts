@@ -52,7 +52,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		children: [
 			{
 				name: "成绩工具",
-				url: "https://mteyer.neoact.xyz/",
+				url: "https://mteyer.mtvfree.xyz/",
 				external: true,
 				icon: "fa7-brands:cloudflare",
 			},

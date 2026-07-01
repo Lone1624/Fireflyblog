@@ -81,6 +81,12 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 				icon: "fa7-brands:cloudflare",
 			},
 			{
+				name: "抽认卡",
+				url: "https://flashcard.neoact.xyz/",
+				external: true,
+				icon: "material-symbols:credit-card",
+			},
+			{
 				name: "敬请期待...",
 				url: "https://blog.neoact.xyz/",
 				external: true,
